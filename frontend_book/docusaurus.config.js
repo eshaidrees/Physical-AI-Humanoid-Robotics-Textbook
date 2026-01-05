@@ -18,6 +18,7 @@ const config = {
   // For GitHub Pages: https://<USERNAME>.github.io/<REPO>/
   baseUrl: '/Physical-AI-Humanoid-Robotics-Textbook/',
   trailingSlash: true,
+  deploymentBranch: 'gh-pages',
 
 
   // GitHub pages deployment config.
